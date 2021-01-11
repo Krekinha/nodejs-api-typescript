@@ -2,9 +2,9 @@
 
 * Inicie o novo projeto normalmente como em javascript:
 ```bash
-yarn init -y
+yarn init -yPrimeiro 
 ```
-* instale o typescript no projeto local:
+* Primeiro instale o typescript no projeto local:
 ```bash
 yarn add -D typescript
 ```
@@ -15,10 +15,6 @@ yarn tsc --init
 * Para trabspilar o código typescript em código javascript:
 ```bash
 yarn tsc
-```
-* Primeiro instale o typescript no projeto local:
-```bash
-yarn add -D typescript
 ```
 
 # Automatizar o processo de transpilação
